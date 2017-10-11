@@ -1,0 +1,23 @@
+benefitinit.xml
+
+IoC -> Dependency Injection(의존관계주입, 의존성주입)
+@Component
+@Controller
+@Service
+@Repository
+@
+
+
+impl에서 @component를 하면 인스턴스로 인식된다. 
+Text2SpeechServiceImpl text2SpeechServiceImpl = new
+Text2SpeechServiceImpl();
+
+
+
+<웹 만들기>
+
+src/test/resources
+test에 관련한 framwork
+
+(src**s)는 웹 컨턴츠랑 관련있다
+web-inf에 view파일을 만드는 것은 바로 접근을 하지 못하도록! 

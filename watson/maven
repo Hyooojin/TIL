@@ -1,0 +1,27 @@
+dependency 추가
+http://watson-developer-cloud.github.io/java-sdk/
+
+- github 주소에서 복사
+- <dependency>
+	<groupId>com.ibm.watson.developer_cloud</groupId>
+	<artifactId>java-sdk</artifactId>
+	<version>4.0.0</version>
+</dependency>
+
+
+
+develper_cloud에 라이브러리를 저장
+.m2 > repository > com > ibm > watson >develper_cloud
+
+maven에 소스만 추가 
+
+
+
+
+test_to_speech만 사용하고 싶으면 
+dependency를 하나씩 걸어주면 된다. 
+https://github.com/watson-developer-cloud/java-sdk/tree/develop/text-to-speech
+
+
+- Usage
+음성정보를 리스트 형태로 받아와서 뿌리고 있다. 
