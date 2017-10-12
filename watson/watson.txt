@@ -1,0 +1,11 @@
+classifiers
+
+classifier ID บนป็
+ebd15ex229-nlc-23929
+
+
+{
+  "url": "https://gateway.watsonplatform.net/natural-language-classifier/api",
+  "username": "444dbfc9-b187-4baa-85cb-be54b5301f8e",
+  "password": "oCr5V4Ar4AvN"
+}
