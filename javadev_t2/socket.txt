@@ -1,0 +1,17 @@
+
+  [Server]		        [Client]
+
+ServerSocket		       
+     ↓        Connect     ↓
+   accept() <----------- Socket
+     ↓                    ↓
+   OutputStream          InputStream
+   InputStream           OutputStream
+     ↓                    ↓
+   read()   <----------- write()
+     ↓                    ↓
+   write()  -----------> read()
+     ↓                    ↓
+   close()               close()
+
+  

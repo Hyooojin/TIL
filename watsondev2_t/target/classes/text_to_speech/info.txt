@@ -1,0 +1,5 @@
+{
+  "url": "https://stream.watsonplatform.net/text-to-speech/api",
+  "username": "0a3f4d46-2ab1-4b73-ab79-9970543734ce",
+  "password": "MEOCGJkFDFTv"
+}
